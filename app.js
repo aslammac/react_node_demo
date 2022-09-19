@@ -8,6 +8,7 @@ Vue.createApp({
     methods: {
         addIdeas() {
             this.ideas.push(this.enteredValue);
+            this.enteredValue = "";
         }
     }
 }).mount('#app');

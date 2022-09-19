@@ -1,0 +1,20 @@
+body {
+  background-color: azure;
+  scrollbar-3dlight-color: aqua;
+  font-family: "Courier New", Courier, monospace;
+}
+nav {
+  background-color: bisque;
+  margin: 0%;
+  padding: 0%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
